@@ -1,0 +1,22 @@
+.Calculator{
+  border: 1px solid  black;
+  width: 200px;
+  border-radius: 18px;
+  
+}
+.mainContainer{
+  padding-top: 12%;
+  /* background-color: #C06C84; */
+}
+.buttonConainer{
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button{
+  margin: 3px;
+  height: 45px;
+  width: 45px;
+  border-radius: 4px;
+}
